@@ -1,0 +1,25 @@
+*{margin: 0;
+padding: 0%;
+text-decoration: none;
+list-style: none;
+}
+.about{
+    min-height: 100vh;
+    background: red;
+}
+.main-container{
+    position: relative;
+    top:200px;
+margin-left: 230px;
+}
+.inner-container{
+    display: inline-flex;
+    /* padding:20px;*/
+    /*margin:20px;*/
+}
+.main-container{
+    height: 200px;
+    width: 200px;
+    background: white;
+    margin: 6px;
+}

@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+body{
+    background-image: url(andre-benz-cXU6tNxhub0-unsplash.jpg);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    display: inline-flex;
+    margin: 30px;
+    margin-right: 100px;
+}
+nav{
+    display: inline-flex;
+}
+nav ul{
+    display: inline-flex;
+    margin: 0 100px;
+    gap: 50px;
+}
+nav ul li{
+color: aquamarine;
+text-decoration: none;
+text-transform: uppercase;
+font-family: Arial;
+margin-left: 100;
+}
+nav ul li a{
+    color: white;
+text-decoration: none;
+text-transform: uppercase;
+font-family: Arial;
+margin-left: 100px;
+}
+nav ul li a:hover{
+color: orangered;
+}
+.Quote h3{
+    text-transform: uppercase;
+    font-family: arial;
+    font-size: 90px;
+    text-align: center;
+    color: rgb(6, 247, 247);
+}
+.Quote p{
+    text-align: center;
+    font-family:Arial;
+    font-size: 45px;
+    color: rgba(120, 17, 218, 0.452);
+}
+.Quote{
+    padding: 155px;
+}
+.Did{
+    display: inline;
+}
+
+
+

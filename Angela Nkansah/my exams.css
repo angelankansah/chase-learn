@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+h3{
+    font-size: 36px;
+    color:darkgreen;
+    text-align: center;
+}
+nav{
+    display: flex;
+    gap: 50px;
+    list-style-type:square ;
+}
+ul li{
+list-style-type: square;
+margin: 20px;
+}
+p{
+    border: 2px;
+    border-color: black;
+    border-style: dashed;
+}
